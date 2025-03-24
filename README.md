@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxy1012&show_icons=true&count_private=true)
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
