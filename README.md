@@ -45,7 +45,7 @@ Here are some ideas to get you started:
       <a href="#"><img alt="Fairy GUI" src="https://img.shields.io/badge/Fairy%20GUI-ffad6c?logo=fairy-gui&logoColor=white"></a>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-      <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-e0e0b7?logo=jenkins&logoColor=white"></a>
+      <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-0d2439?logo=jenkins&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Svn" src="https://img.shields.io/badge/Svn-007396.svg?logo=svn&logoColor=white"></a>
