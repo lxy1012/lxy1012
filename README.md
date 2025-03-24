@@ -46,4 +46,5 @@ Here are some ideas to get you started:
       <a href="#"><img alt="Svn" src="https://img.shields.io/badge/Svn-007396.svg?logo=svn&logoColor=white"></a>
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="#"><img alt="Fairy GUI" src="https://img.shields.io/badge/Fairy%20GUI-2bb57e?logo=fairy-gui&logoColor=white"></a>
   </p>
