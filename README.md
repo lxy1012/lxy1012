@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lxy1012" /> </div>
+
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=CN_luhaha"> </div>
