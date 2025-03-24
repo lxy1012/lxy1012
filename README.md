@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxy1012&show_icons=true&count_private=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lxy1012&repo=github-readme-stats)](https://github.com/lxy1012/ReadNotes)
 
