@@ -15,10 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lxy1012" /> </div>
-
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=272432916"> </div>
-
-![id 为 23047401 的用户的 B 站数据](https://stats.justsong.cn/api/bilibili/?id=23047401)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxy1012&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxy1012)
