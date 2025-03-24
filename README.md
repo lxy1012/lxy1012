@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=272432916"> </div>
 
 ![id 为 23047401 的用户的 B 站数据](https://stats.justsong.cn/api/bilibili/?id=23047401)
+
+![力扣数据](https://stats.justsong.cn/api/leetcode?username=Dreamy Heyrovsky3AU&cn=true)
