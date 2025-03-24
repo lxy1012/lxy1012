@@ -42,12 +42,14 @@ Here are some ideas to get you started:
       <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-201d1d?logo=unity&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-b5ce6b.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="XCode" src="https://img.shields.io/badge/Xcode-035037.svg?logo=xcode&logoColor=white"></a>
+      <a href="#"><img alt="Fairy GUI" src="https://img.shields.io/badge/Fairy%20GUI-ffad6c?logo=fairy-gui&logoColor=white"></a>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+      <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-b11a00?logo=jenkins&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Svn" src="https://img.shields.io/badge/Svn-007396.svg?logo=svn&logoColor=white"></a>
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="#"><img alt="Fairy GUI" src="https://img.shields.io/badge/Fairy%20GUI-ffad6c?logo=fairy-gui&logoColor=white"></a>
+      
   </p>
