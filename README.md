@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![id 为 23047401 的用户的 B 站数据](https://stats.justsong.cn/api/bilibili/?id=23047401)
 
-![力扣数据](https://stats.justsong.cn/api/leetcode?username=Dreamy Heyrovsky3AU&cn=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxy1012)
