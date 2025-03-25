@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxy1012&show_icons=true&count_private=true&card_width=400)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lxy1012&card_width=400" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=lxy1012&card_width=400)](https://git.io/streak-stats)
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
